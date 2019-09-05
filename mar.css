@@ -12,13 +12,17 @@
 	margin-top: 27px;
 }
 .mar a{
-	text-decoration: none;
+	text-decoration: none;	
+	color: #000;
 }
 .mar h1{
 	border: 2px solid black;
 	background-color: skyblue;
 	margin-top: 25px;
 	text-align: center;
+}
+.mar i{
+	color: #000;
 }
 @media only screen and (min-width: 1100px){
 .mar img{
